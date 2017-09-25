@@ -1,0 +1,80 @@
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.dll.config
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.dll.config
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.dll.config
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.dll.config
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.pdb
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.dll.config
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.pdb
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.pdb
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.dll.config
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.pdb
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.xml
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.csprojResolveAssemblyReference.cache
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.dll.config
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.pdb
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.dll.config
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\SEN.DAL.pdb
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.xml
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.csprojResolveAssemblyReference.cache
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.DAL\obj\Debug\SEN.DAL.pdb

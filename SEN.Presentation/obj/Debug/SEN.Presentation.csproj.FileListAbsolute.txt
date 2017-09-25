@@ -1,0 +1,1290 @@
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\SSS\Desktop\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\SSS\Desktop\Web-Ev\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+F:\Sena\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\Wissen\Desktop\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+D:\Yeni klasör\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\SSS\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+F:\Sena\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\Wissen\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+E:\NT\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\Nagihan-Laptop\Desktop\enson hal\proje yeni\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\SSS\Downloads\güzel proje\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\Wissen\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\SSS\Desktop\güzel proje\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\Nagihan-Laptop\Desktop\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\Nagihan-Laptop\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+E:\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\SSS\Downloads\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+F:\Sena\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+D:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\SSS\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\csc.exe
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\vbc.exe
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll.config
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.Presentation.pdb
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\WebGrease.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.xml
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.BLL.pdb
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\SEN.DAL.pdb
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\System.Web.Optimization.xml
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.Presentation\obj\Debug\SEN.Presentation.pdb

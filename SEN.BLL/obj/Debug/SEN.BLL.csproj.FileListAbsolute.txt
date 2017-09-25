@@ -1,0 +1,102 @@
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.dll.config
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.pdb
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.dll
+C:\Users\Nagihan-Laptop\Desktop\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.pdb
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.dll.config
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.pdb
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.dll
+C:\Users\Nagihan-Laptop\Desktop\proje yeni\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.pdb
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.dll.config
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.pdb
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.dll
+C:\Users\Nagihan-Laptop\Desktop\NT\SEN\güzel proje\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.pdb
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.dll.config
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.pdb
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.DAL.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.DAL.pdb
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.dll
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.pdb
+D:\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.dll.config
+D:\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.pdb
+D:\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.DAL.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.xml
+D:\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.DAL.pdb
+D:\son son hali canım\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.csprojResolveAssemblyReference.cache
+D:\son son hali canım\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.dll
+D:\son son hali canım\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.pdb
+C:\Users\Wissen\Desktop\son son hali canım\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.dll.config
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.pdb
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.dll
+C:\Users\Nagihan-Laptop\Desktop\Yeni klasör\son son hali canım\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.pdb
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.dll.config
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.pdb
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.DAL.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.DAL.pdb
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.dll
+C:\Users\Nagihan-Laptop\Desktop\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.pdb
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.dll.config
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.pdb
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.DAL.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.xml
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.DAL.pdb
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.csprojResolveAssemblyReference.cache
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.dll
+E:\kutu yapılı hali\son son hali canım\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.pdb
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.dll.config
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.BLL.pdb
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.DAL.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.xml
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.BLL\bin\Debug\SEN.DAL.pdb
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.csprojResolveAssemblyReference.cache
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.dll
+C:\Users\SSS\Desktop\Proje Bitti\son son hali canım\HediyeKutusu.SEN\SEN.BLL\obj\Debug\SEN.BLL.pdb
